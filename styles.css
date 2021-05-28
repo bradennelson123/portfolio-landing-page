@@ -1,12 +1,12 @@
 .background { background-image: url('https://img.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg?size=626&ext=jpg');
-
+background-size: cover;
 }
 
 h1 { text-align: center; color: crimson;
 ;border-style: solid; border-color:crimson; padding: 2px;
 margin: 15px; background-color:rgb(218, 216, 216);
 }
-h2 {text-align: left; color: crimson;border-bottom: 2px solid blue; 
+h2 {text-align: left; color: crimson;border-bottom: 2px solid rgb(10, 10, 10); 
 
 }
 ul {color: blue;
