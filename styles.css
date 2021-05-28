@@ -2,8 +2,12 @@ h1 { text-align: center; color: crimson;
 ;border-style: solid; border-color: blue; padding: 2px;
 margin: 15px
 }
+h2 {text-align: left; color: crimson;border-bottom: 2px solid blue; 
 
+}
+ul {color: blue;
 
+}
 
 
 .sidebar { text-align: left; color: blue;
