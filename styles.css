@@ -22,6 +22,21 @@ h3 { color: crimson;
 .sidebar { text-align: left; color: blue;
 
 }
-.img {border-style: double; padding-bottom: 128px;
+.img {border-style: double; padding-bottom: 55px;
+
+}
+h4 {text-align: center; color: crimson;
+
+}
+.column1 { column-count: 2; margin-top: 0%; border-style: solid;
+width: 600px; background-image: url(https://mthoodterritory.objects.liquidweb.services/photos/mt-hood-jonsrud-viewpoint-full-Header.png);
+background-size: 600px;
+
+}
+
+
+
+
+ 
 
 }
