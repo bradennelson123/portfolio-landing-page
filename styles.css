@@ -5,8 +5,11 @@ background-size: cover;
 h1 { text-align: center; color: crimson;
 ;border-style: solid; border-color:crimson; padding: 2px;
 margin: 15px; background-color:rgb(218, 216, 216);
+border-radius: 50px;
 }
 h2 {text-align: left; color: crimson;border-bottom: 2px solid rgb(10, 10, 10); 
+
+}
 
 }
 ul {color: blue;
@@ -22,10 +25,10 @@ h3 { color: crimson;
 .sidebar { text-align: left; color: blue;
 
 }
-.img {border-style:ridge; color: rgb(8, 8, 8);
+.img {border-style:solid; color: rgb(8, 8, 8);
 
 }
-h4 {text-align: center; color: crimson;
+h4 {text-align: left; color: crimson;
 
 }
 .column1 { text-align: center;
@@ -35,7 +38,9 @@ background-size: 920px;
 
 }
 
+.lastheader { text-align: center; }
 
+}
 
 
  
