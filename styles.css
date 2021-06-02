@@ -27,4 +27,7 @@ background-size: 920px; }
 
 .lastheader { text-align: center; }
 
-
+.picture {
+  float: right; border: ridge; padding: 10px; 
+  border-radius: 10px; margin-top: 10px;
+}
