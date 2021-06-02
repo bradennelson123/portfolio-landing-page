@@ -18,8 +18,10 @@ _In this project I created a portfolio webpage that highlights my HTML and CSS s
 ## Setup/Installation Requirements
 
 * _Git clone the url from repository_
-* _Move to the top of your directory in prefered VCS._
-* _open the repository by command git clone "URL"_
+* _Open index.html in command line._
+* _open direct link to project here_
+<p> <a href="https://bradennelson123.github.io/portfolio-landing-page/"> https://bradennelson123.github.io/portfolio-landing-page/</p>
+
 
 ## Known Bugs
 
